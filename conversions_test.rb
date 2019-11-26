@@ -26,7 +26,7 @@ end
 
 puts "Given 1, it should return 28.3495"
 answer = cups_to_mls(1)
-if answer == 
+if answer == 236.588
   puts "Passed!"
 else
   puts "Test failed: got #{answer} instead"
